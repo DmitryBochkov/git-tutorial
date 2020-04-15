@@ -3,7 +3,7 @@
 - Back
 - Devops
 
-# Tages
+# Tags
 - Git
 - React
 - JS
