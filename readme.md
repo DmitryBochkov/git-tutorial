@@ -1,0 +1,4 @@
+# Tages
+- Git
+- React
+- JS
