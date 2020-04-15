@@ -1,3 +1,9 @@
-about us
-contact us
-shop
+# Categories
+- Front
+- Back
+- Devops
+
+# Tags
+- Git
+- React
+- JS
